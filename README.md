@@ -12,7 +12,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 * 
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, I’m having tremendous of spare time, so, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
 * Read a book a week
