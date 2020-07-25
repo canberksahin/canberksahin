@@ -31,8 +31,6 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
-Do ⭐ my work if you find it interesting, it helps me stay on track and be motivated.
-
 **Connect with me:**
 <p align="left">
 <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -43,6 +41,8 @@ Do ⭐ my work if you find it interesting, it helps me stay on track and be moti
    <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
+
+Do ⭐ my work if you find it interesting, it helps me stay on track and be motivated.
 
 
 
