@@ -1,8 +1,8 @@
 # Hello there 👋 
 
-### I'm Vatana Chhorn,
+### I'm Vatana Chhorn, 
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
+A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
@@ -45,6 +45,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 Do ⭐ my work if you find it interesting, it helps me stay on track and be motivated.
 
 
+<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
 
 ### Credit to 
