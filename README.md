@@ -41,5 +41,6 @@ Do ⭐ my work if you find it interesting, it helps me stay on track and be moti
 </p>
 
 ### Credit to 
--  Mandragora Estudio **for GIF. 
+-  Mandragora Estudio **for GIF**. 
+
 https://dribbble.com/shots/9344637-working-hard
