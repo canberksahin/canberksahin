@@ -47,8 +47,6 @@ Do ⭐ my work if you find it interesting, it helps me stay on track and be moti
 
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
----
-
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
 
 ---
