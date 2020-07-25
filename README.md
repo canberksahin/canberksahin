@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Vatana Chhorn,
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2146370/screenshots/9344637/media/0059834c5239c93f30c78514086c04a5.gif" width="400" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
  
 A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
 
