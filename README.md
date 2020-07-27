@@ -8,7 +8,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 ### 💼  Things that I'm currently working on: 
 * Doing bachelor's degree in Software Engineering
-* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
+* Taking a Swift Online Course, and looking forward to contribute to any iOS open source project. 
 * Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
 * Inquiring more about UX/UI.  
 * Looking forward to take a Web Development Course in future besides school curriculum. 
