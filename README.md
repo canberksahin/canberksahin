@@ -21,7 +21,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 * Read a book a week
 * Workout 3 days in a row and take a day break 
 * Avoid the over using social media
-* Adapting the minimalism life style
+* Adopting the minimalism life style
 * 🔜
 
  
