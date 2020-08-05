@@ -45,10 +45,10 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula)
-
+ 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula)
 
 ---
 
