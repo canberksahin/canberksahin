@@ -19,7 +19,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 
 * Learn to code 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read more books
-* Avoid the over using social media
+* Avoid over using social media
 * Adopting the minimalism life style
 * 🔜
 
