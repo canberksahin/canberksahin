@@ -15,13 +15,19 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
+<details>
+  <summary>Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙇🏻‍♂️
+  </summary>
+  <ul>
+    <br>
+    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li>Avoid over using social media</li>
+    <li>Read more books</li>
+    <li>Adopting the minimalism life style</li>
+    <li>🔜</li>
+  </ul>
+</details>
 
-* Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )
-* Read more books
-* Avoid over using social media
-* Adopting the minimalism life style
-* 🔜
 
 
 **Languages and Frameworks:**
@@ -48,7 +54,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
 <details>
-  <summary>✨ Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
   <br>
   <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" />
   <br>
@@ -62,9 +68,10 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
   <br>
 </details>
 <details>
-  <summary>🔥 Top languages</summary>
+  <summary>:zap: Top languages</summary>
   <br>
   <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula&layout=compact" /> <br>
+  <br>
   <br>
   <br>
   <br>
