@@ -4,7 +4,7 @@
 
 A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3oKIPCG7JBINSdfxQc/giphy.gif?cid=ecf05e47ca0dfc8e57f370650225d2b0ee3ede06f300afeb&rid=giphy.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/6HWsyW8V9U2u4/giphy.gif?cid=ecf05e47e11e8dfd70398f0d88a27b1db1df8d270fa70b5b&rid=giphy.gif" width="350" height="300" />
 
 ### 💼 Things that I'm currently working on:
 * Doing bachelor's degree in Software Engineering
@@ -51,6 +51,8 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
+---
+
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
 <details>
@@ -81,5 +83,4 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 </details>
 
 
----
 
