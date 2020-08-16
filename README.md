@@ -6,7 +6,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the college. 🤞🏻 </summary>
+  <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
     <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
@@ -19,7 +19,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙆🏻‍♂️ </summary>
+  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
     <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
