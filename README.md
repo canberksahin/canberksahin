@@ -1,23 +1,25 @@
-# Hello there 👋
+# Welcome 🙋🏻‍♂️
 
 ### I'm Vatana Chhorn,
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
+A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering.
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/6HWsyW8V9U2u4/giphy.gif?cid=ecf05e47e11e8dfd70398f0d88a27b1db1df8d270fa70b5b&rid=giphy.gif" width="340" height="280" />
-
-### 💼 Things that I'm currently working on:
-* Doing bachelor's degree in Software Engineering
-* Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.
-* Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.
-* Inquiring more about UX/UI.
-* Looking forward to take a Web Development Course in future besides school curriculum.
-* 🔜
+<h3>💼 Things that I'm currently working on:</h3>
+<details>
+  <summary>I'm currently working on a couple of things besides the college. 🤞🏻 </summary>
+  <ul>
+    <br>
+    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
+    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li>AInquiring more about UX/UI.</li>
+    <li>🔜</li>
+  </ul>
+</details>
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary>Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙆🏻‍♂️
-  </summary>
+  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙆🏻‍♂️ </summary>
   <ul>
     <br>
     <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
@@ -81,6 +83,3 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
   <br>
   <br>
 </details>
-
-
-
