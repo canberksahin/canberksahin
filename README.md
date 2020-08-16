@@ -4,7 +4,7 @@
 
 A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/ONip6r6SCtpZu/source.gif" width="300" height="300" />
 
 ### 💼 Things that I'm currently working on:
 * Doing bachelor's degree in Software Engineering
@@ -16,7 +16,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary>Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙇🏻‍♂️
+  <summary>Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 🙆🏻‍♂️
   </summary>
   <ul>
     <br>
@@ -54,7 +54,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>✨ Github Stats</summary>
   <br>
   <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" />
   <br>
@@ -68,7 +68,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
   <br>
 </details>
 <details>
-  <summary>:zap: Top languages</summary>
+  <summary>🔥 Top languages</summary>
   <br>
   <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula&layout=compact" /> <br>
   <br>
