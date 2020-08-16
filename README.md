@@ -4,7 +4,7 @@
 
 A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/6HWsyW8V9U2u4/giphy.gif?cid=ecf05e47e11e8dfd70398f0d88a27b1db1df8d270fa70b5b&rid=giphy.gif" width="350" height="300" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/6HWsyW8V9U2u4/giphy.gif?cid=ecf05e47e11e8dfd70398f0d88a27b1db1df8d270fa70b5b&rid=giphy.gif" width="340" height="280" />
 
 ### 💼 Things that I'm currently working on:
 * Doing bachelor's degree in Software Engineering
