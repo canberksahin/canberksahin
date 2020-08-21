@@ -74,7 +74,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 <details>
   <summary>🔥 Top languages</summary>
   <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula&layout=compact" /> <br>
+  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula" /> <br>
   <br>
   <br>
   <br>
