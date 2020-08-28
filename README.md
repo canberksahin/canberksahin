@@ -2,7 +2,7 @@
 
 ### I'm Vatana Chhorn,
 
-A sophomore at  <a href="www.hdu.edu.cn">Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
+A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
