@@ -55,7 +55,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
 </p>
 
 
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
+Do ⭐  my repository if you find my project interesting, at least your star could make someone's day.
 
 ---
 
