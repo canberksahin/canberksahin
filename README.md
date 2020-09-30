@@ -1,6 +1,6 @@
 # Welcome 🙋🏻‍♂️
 
-### I'm Vatana Chhorn,
+### I'm Vatana Chhorn (ឈន វឌ្ឍនា),
 
 A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
 
