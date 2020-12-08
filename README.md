@@ -12,7 +12,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
     <li><del>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</del></li>
     <li>Still pursuing my iOS Development Journey, and currently working on some projects as well as spending all the spare time on SwiftUI.</li>
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li><del>Looking forward to take a Web Development Course in future besides school curriculum.</del></li>
     <li>Inquiring more about UX/UI.</li>
     <li>Working on two private repositories.</li>
     <li>🔜</li>
