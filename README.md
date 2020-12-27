@@ -59,9 +59,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
 
 Do star my repository if you find my project interesting, at least your star could make someone's day.
 
-<a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Vatana's%20personal%20CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
-
-
+<a href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/Vatana's%20personal%20CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
 
 ---
 
