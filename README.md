@@ -2,7 +2,7 @@
 
 ### I'm Vatana Chhorn (ឈន វឌ្ឍនា),
 
-A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
+A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -35,21 +35,21 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
   <summary> What I have accomplished besides school. </summary>
   <ul>
     <br>
-    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf">iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
-    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/SwiftUI%20Masterclass.pdf">SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5</a></li>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf" target="_blank" > iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/SwiftUI%20Masterclass.pdf" target="_blank" >SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5</a></li>
     <li>🔜</li>
   </ul>
 </details>
 
 **App I have released on App Store:**
 <p align="left">
-  <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135"> 
+  <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135" target="_blank" > 
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"/> 
   </a></code>&nbsp;
-  <code><a href="https://apps.apple.com/kh/app/bacii-calculator/id1552555325"> 
+  <code><a href="https://apps.apple.com/kh/app/bacii-calculator/id1552555325" target="_blank" > 
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" />
   </a></code>&nbsp;
-  <code><a href="https://apps.apple.com/kh/app/unit-converter-kh-version/id1552600808"> 
+  <code><a href="https://apps.apple.com/kh/app/unit-converter-kh-version/id1552600808" target="_blank" > 
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" />
   </a></code>&nbsp;
 </p>
