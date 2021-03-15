@@ -44,14 +44,11 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
 **App I have released on App Store:**
 <p align="left">
   <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135" target="_blank" > 
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"/> 
-  </a></code>&nbsp;
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"/></a></code>&nbsp;
   <code><a href="https://apps.apple.com/kh/app/bacii-calculator/id1552555325" target="_blank" > 
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" />
-  </a></code>&nbsp;
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" /></a></code>&nbsp;
   <code><a href="https://apps.apple.com/kh/app/unit-converter-kh-version/id1552600808" target="_blank" > 
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" />
-  </a></code>&nbsp;
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" /></a></code>&nbsp;
 </p>
 
 **Languages and Frameworks:**
