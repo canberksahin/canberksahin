@@ -30,7 +30,31 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
   </ul>
 </details>
 
+### 🌱 List of my online certificates:
+<details>
+  <summary> What I have accomplished besides school. </summary>
+  <ul>
+    <br>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf">iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/SwiftUI%20Masterclass.pdf">SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5</a></li>
+    <li>🔜</li>
+  </ul>
+</details>
 
+**App I have released on App Store:**
+<p align="left">
+  <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135"> 
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"> 
+  </a></code>&nbsp;
+
+  <code><a href="https://apps.apple.com/kh/app/bacii-calculator/id1552555325"> 
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" >
+  </a></code>&nbsp;
+
+  <code><a href="https://apps.apple.com/kh/app/unit-converter-kh-version/id1552600808"> 
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" >
+  </a></code>&nbsp;
+</p>
 
 **Languages and Frameworks:**
 <p align="left">
@@ -57,7 +81,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, 
 
 Do star my repository if you find my project interesting, at least your star could make someone's day.
 
-<a id="link" href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/Vatana's%20personal%20CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
+<a id="link" href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/CV/Vatana's%20personal%20CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
 
 ---
 
