@@ -63,10 +63,10 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
 </p>
 
-**My Team & Organisation:**
+**My Team:**
 
 <p align="left">
-    <a href="https://github.com/DYNOMITE-TM" target="blank"><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/DYNOMITE%20LOGO.png" alt="swift" width="40" height="40" /></code>&nbsp;
+    <a href="https://github.com/DYNOMITE-TM" target="blank"><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/DYNOMITE%20LOGO.png" alt="swift" width="40" height="40" /></code>&nbsp;&nbsp;
 
 **Connect with me:**
 <p align="left">
