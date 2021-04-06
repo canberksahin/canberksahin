@@ -65,9 +65,10 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
 **My Team:**
 
 <p align="left">
-    <a href="https://github.com/DYNOMITE-TM" target="blank"><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/DYNOMITE%20LOGO.png" alt="swift" width="40" height="40" /></code>&nbsp;&nbsp;
+    <a href="https://github.com/DYNOMITE-TM" target="blank"><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/DYNOMITE%20LOGO.png" alt="swift" width="40" height="40" /></code>&nbsp;
 
 **Connect with me:**
+
 <p align="left">
   <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
