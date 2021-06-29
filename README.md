@@ -48,6 +48,8 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" /></a></code>&nbsp;
   <code><a href="https://apps.apple.com/au/app/minimal-converter/id1560474673" target="_blank" >
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" /></a></code>&nbsp;
+  <code><a href="https://apps.apple.com/kh/app/khmer-smart-dictionary/id1572671492" target="_blank" >
+  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/KHMER%20SMART%20DICTIONARY%20LOGO.png" alt="Unit Converter" width="40" height="40" /></a></code>&nbsp;
 </p>
 
 **Languages and Frameworks:**
