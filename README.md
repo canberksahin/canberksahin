@@ -41,6 +41,7 @@ A junior at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi Un
 </details>
 
 **App I have released on App Store:**
+<br>*And many more on the store that I'm too lazy to get this updated : )*
 <p align="left">
   <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135" target="_blank" >
   <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"/></a></code>&nbsp;
