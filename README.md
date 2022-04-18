@@ -1,7 +1,7 @@
 <a href="http://www.vatanachhorn.tech" target="_blank" > <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Git%20Display/Github%20Display%201.0.png" width="100%"></a>
 #
 
-A junior at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
+Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" >Gazi University</a>, Turkey. Also, pursuing master degree at  <a href="https://www.metu.edu.tr/tr" target="_blank" >Middle East Technical University</a> in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -73,19 +73,14 @@ A junior at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi Un
 **Connect with me:**
 
 <p align="left">
-  <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/canberkshn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   &nbsp;&nbsp;
-  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/canberksahin20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  &nbsp;&nbsp;
 </p>
 
 
-Do star my repository if you find my project interesting, at least your star could make someone's day.
-
-<a id="link" href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/CV/Vatana's%20personal%20CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
+<a id="link" href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/CV/Canberk_Sahin_CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
 
 ---
 
