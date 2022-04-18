@@ -2,16 +2,44 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the college. </summary>
+  <summary> Online Exam Application </summary>
   <ul>
     <br>
-    <li>Still pursuing my iOS Development Journey, and currently working on some projects as well as spending all the spare time on SwiftUI.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li>Inquiring more about UX/UI.</li>
-    <li>Working on two private repositories.</li>
+    <li>.Net Core 6.0</li>
+    <li>Angular 11.2.3</li>
+    <li>Microservice</li>
+    <li>CQRS Design Pattern</li>
+    <li>Docker</li>
+    <li>Portainer</li>
+    <li>CI/CD (Bamboo)</li>
+    <li>Redis</li>
+    <li>RabbitMQ</li>
+    <li>Jira</li>
+    <li>BitBucket</li>
+    <li>Jira</li>
     <li>🔜</li>
   </ul>
 </details>
+
+<details>
+  <summary> Alumni Management System </summary>
+  <ul>
+    <br>
+    <li>.Net Core 5.0</li>
+    <li>Docker</li>
+    <li>Portainer</li>
+    <li>CI/CD (Bamboo)</li>
+    <li>Redis</li>
+    <li>WCF Services (YOKSIS Integration)</li>
+    <li>Jira</li>
+    <li>BitBucket</li>
+    <li>Jira</li>
+    <li>MinIO (Distributed object storage system)</li>
+    <li>🔜</li>
+  </ul>
+</details>
+
+
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
@@ -40,8 +68,10 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 
 **Languages and Frameworks:**
 <p align="left">
+   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="C#" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="Typescript" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="C#" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://pngset.com/images/getting-angular-and-webpack-working-angular-js-logo-symbol-trademark-emblem-transparent-png-2733962.png" alt="Angular" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="Javascript" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
@@ -65,7 +95,7 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+<img src="https://komarev.com/ghpvc/?username=canberksahin" alt="CanberkSahin" />
 
 <details>
   <summary>✨ Github Stats</summary>
