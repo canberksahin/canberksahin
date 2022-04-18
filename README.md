@@ -1,4 +1,4 @@
-Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" >Gazi University</a>, Turkey. Also, pursuing master degree at  <a href="https://www.metu.edu.tr/tr" target="_blank" >Middle East Technical University</a> in Software Engineering.
+Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" >Gazi University</a>, Turkey. Also, pursuing Master's Degree at  <a href="https://www.metu.edu.tr/tr" target="_blank" >Middle East Technical University</a> in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
