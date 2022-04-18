@@ -102,7 +102,7 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 </p>
 
 
-<a id="link" href="https://github.com/VatanaChhorn/VatanaChhorn/raw/master/CV/Canberk_Sahin_CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
+<a id="link" href="https://github.com/canberksahin/canberksahin/blob/master/CV/Canberk_Sahin_CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
 
 ---
 
