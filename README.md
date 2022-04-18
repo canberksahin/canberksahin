@@ -95,9 +95,9 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 **Connect with me:**
 
 <p align="left">
-  <a href="https://www.instagram.com/canberkshn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/canberkshn/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/canberksahin20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/canberksahin20" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   &nbsp;&nbsp;
 </p>
 
