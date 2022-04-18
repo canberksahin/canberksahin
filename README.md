@@ -37,35 +37,19 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
   </ul>
 </details>
 
-**App I have released on App Store:**
-<br>*And many more on the store that I'm too lazy to get this updated : )*
-<p align="left">
-  <code><a href="https://apps.apple.com/kh/app/keknit/id1552180135" target="_blank" >
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Keknit.png" alt="Keknit" width="40" height="40"/></a></code>&nbsp;
-  <code><a href="https://apps.apple.com/kh/app/bacii-calculator/id1552555325" target="_blank" >
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/Bac%20Calculator.png" alt="BacII Calculator" width="40" height="40" /></a></code>&nbsp;
-  <code><a href="https://apps.apple.com/au/app/minimal-converter/id1560474673" target="_blank" >
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/UnitConverter.png" alt="Unit Converter" width="40" height="40" /></a></code>&nbsp;
-  <code><a href="https://apps.apple.com/kh/app/khmer-smart-dictionary/id1572671492" target="_blank" >
-  <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/KHMER%20SMART%20DICTIONARY%20LOGO.png" alt="Unit Converter" width="40" height="40" /></a></code>&nbsp;
-</p>
 
 **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/swiftUI%20Logo.png" alt="swiftUI" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="CPP" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="Typescript" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="C#" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="Javascript" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
 </p>
 
-**My Team:**
 
-<p align="left">
-    <a href="https://github.com/DYNOMITE-TM" target="blank"><img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Logos/DYNOMITE%20LOGO.png" alt="swift" width="40" height="40" /></code>&nbsp;
 
 **Connect with me:**
 
