@@ -39,34 +39,7 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
   </ul>
 </details>
 
-
-
-### 🌱 Challenges that I’m currently challenging myself:
-<details>
-  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
-  <ul>
-    <br>
-    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
-    <li>Avoid over using social media</li>
-    <li>Read more books</li>
-    <li>Adopting the minimalism life style</li>
-    <li>🔜</li>
-  </ul>
-</details>
-
-### 📜 List of my online certificates:
-<details>
-  <summary> What I have accomplished besides school. </summary>
-  <ul>
-    <br>
-    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf" target="_blank" > iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
-    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/SwiftUI%20Masterclass.pdf" target="_blank" >SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5</a></li>
-    <li>🔜</li>
-  </ul>
-</details>
-
-
-**Languages and Frameworks:**
+**Languages, Frameworks and Tools:**
 <p align="left">
    <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png" alt="C#" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="Typescript" width="40" height="40" /></code>&nbsp;
@@ -77,7 +50,45 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" alt="atlassian" width="40" height="40" /></code>&nbsp;
 </p>
+
+
+### 🌱 Challenges that I’m currently challenging myself:
+<details>
+  <summary> Blockchain Development </summary>
+  <ul>
+    <br>
+    <li>Learning of blockchain ecosystem</li>
+    <li>Solidity</li>
+    <li>Remix IDE</li>
+    <li>Ganache</li>
+    <li>🔜</li>
+  </ul>
+</details>
+
+<details>
+  <summary> Machine Learning </summary>
+  <ul>
+    <br>
+    <li>Trying to follow ML-For-Beginners repo from Microsoft ( One or two day off a week. )</li>
+    <li>🔜</li>
+  </ul>
+</details>
+
+<!-- ### 📜 List of my online certificates:
+<details>
+  <summary> What I have accomplished besides school. </summary>
+  <ul>
+    <br>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf" target="_blank" > iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
+    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/SwiftUI%20Masterclass.pdf" target="_blank" >SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5</a></li>
+    <li>🔜</li>
+  </ul>
+</details> -->
+
+
+
 
 
 
