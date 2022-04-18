@@ -1,6 +1,3 @@
-<a href="http://www.vatanachhorn.tech" target="_blank" > <img src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Git%20Display/Github%20Display%201.0.png" width="100%"></a>
-#
-
 Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" >Gazi University</a>, Turkey. Also, pursuing master degree at  <a href="https://www.metu.edu.tr/tr" target="_blank" >Middle East Technical University</a> in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
@@ -89,7 +86,7 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 <details>
   <summary>✨ Github Stats</summary>
   <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" />
+  <img align="left" alt="Canberk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canberksahin&show_icons=true&theme=dracula" />
   <br>
   <br>
   <br>
@@ -103,7 +100,7 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 <details>
   <summary>🔥 Top languages</summary>
   <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula" /> <br>
+  <img align="left" alt="Canberk's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberksahin&theme=dracula" /> <br>
   <br>
   <br>
   <br>
