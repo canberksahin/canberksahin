@@ -5,8 +5,9 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
   <summary> Online Exam Application </summary>
   <ul>
     <br>
-    <li>.Net Core 6.0</li>
+    <li>.Net 5.0</li>
     <li>Angular 11.2.3</li>
+    <li>WCF Services (YOKSIS Integration)</li>
     <li>Microservice</li>
     <li>CQRS Design Pattern</li>
     <li>Docker</li>
@@ -22,19 +23,14 @@ Software and DevOps Developer at  <a href="https://gazi.edu.tr" target="_blank" 
 </details>
 
 <details>
-  <summary> Alumni Management System </summary>
+  <summary>Health Check Application </summary>
   <ul>
     <br>
-    <li>.Net Core 5.0</li>
-    <li>Docker</li>
-    <li>Portainer</li>
-    <li>CI/CD (Bamboo)</li>
-    <li>Redis</li>
-    <li>WCF Services (YOKSIS Integration)</li>
-    <li>Jira</li>
-    <li>BitBucket</li>
-    <li>Jira</li>
-    <li>MinIO (Distributed object storage system)</li>
+    <li>.Net Core 3.1</li>
+    <li>AspNetCore.Diagnostics.HealthChecks</li>
+    <li>Slack Integration for notifications</li>
+    <li>Live Monitoring</li>
+    <li>Postgres, Redis, Network checks</li>
     <li>🔜</li>
   </ul>
 </details>
